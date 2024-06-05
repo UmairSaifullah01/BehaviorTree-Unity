@@ -1,0 +1,29 @@
+{
+  "name": "com.thebaddest.behaviourtree",
+  "displayName": "Behaviour Tree",
+  "version": "1.0.0",
+  "description": "A Behavior Tree (BT) in Unity structures AI using action nodes (tasks), condition nodes (checks), sequence nodes (ordered tasks), and selector nodes (alternative tasks) for efficient and dynamic decision-making.",
+  "keywords": [],
+  "samples": [
+    {
+      "displayName": "Sample",
+      "description": "The Code Coverage Tutorial will give you an insight into what Code Coverage is and how you can identify areas of your code that need more testing, even if you haven't written any automated tests.",
+      "path": "Samples~"
+    }
+  ],
+  "relatedPackages": {},
+  "_upm": {
+    "changelog": "# Changelog All notable changes to the Finite State Machine package will be documented in this file. The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html). ## [1.0.0] - 2024-05-14 ### Fixes - 55555555 - 444 - 5555 ### Improvements - ... - ..."
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.testtools.codecoverage@1.2/manual/index.html",
+  "repository": {
+    "url": "D:/UnityProjects/Umair/PackageCreator/Packages/com.thebaddest.behaviourtree@1.0",
+    "type": "git",
+    "revision": "a7dd0751db55cd55e3b336723fb51433c1de7244"
+  },
+  "author": {
+    "name": "Umair Saifullah",
+    "email": "umairsaifullah01@gmail.com",
+    "url": "https://github.com/UmairSaifullah01"
+  }
+}
