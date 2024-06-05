@@ -18,7 +18,8 @@ https://github.com/UmairSaifullah01/BehaviorTree-Unity.git
 - Download and run .unitypackage file from the latest release  
 ## Usage
 
-![Behavior Tree Node Views](https://raw.githubusercontent.com/UmairSaifullah01/Images/master/BehaviorTreeNodeViews.png)## Example
+![Behavior Tree Node Views](https://raw.githubusercontent.com/UmairSaifullah01/Images/master/BehaviorTreeNodeViews.png)
+## Example
 
 Inherit from BehaviorTreeMonoRunner 
 ```csharp
